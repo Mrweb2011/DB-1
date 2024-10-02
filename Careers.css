@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+.Ul_boshi{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 500px;
+    color: #FFFFFF;
+}
+.About{
+    background-image: url(assets/Uy\ orqa\ fon.png);
+    background-size: cover;
+    height: 400px;
+}
+.DB{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    margin-left: 40px;
+    font-size: 30px;
+}
+.About_text{
+    color: #FFFFFF;
+    margin-top: 200px;
+    text-align: center;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.Soat{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+.Chemadan{
+    display: flex;
+    margin-left: 20px;
+    gap: 10px;
+    margin-top: 10px;
+}
+.pul{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.card{
+    font-family: sans-serif;
+    margin-left: 40px;
+    margin-top: 20px;
+    box-shadow: 0px 8px 30px 0px #02395726;
+    width: 300px;
+    height: 220px;
+}
+.card img{
+    width: 20px;
+}
+.card h2{
+    margin-top: 10px;
+    color: #056088;
+    margin-left: 20px;
+}
+.card button{
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    border: none;
+    padding: 20px 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #FFFFFF;
+}
+.cards1{
+    display: flex;
+    margin-top: 30px;
+}
+.cards2{
+    margin-top: 30px;
+    display: flex;
+}
+.cards3{
+    display: flex;
+    margin-top: 30px;
+}
+.cards{
+    margin-left: 140px;
+}
+.see_more{
+    color: #056088;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    margin-left: 600px;
+    font-family: sans-serif;
+}
+.Eng_oxirgi{
+    display: flex;
+    font-family: sans-serif;
+    background-color: #023957;
+    color: #FFFFFF;
+    line-height: 25px;
+}
+.Eng_oxirgi h1{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+.Eng_oxirgi p{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.Eng_oxirgi button{
+    margin-left: 20px;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    border: none;
+    padding: 25px 30px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+.Eng_oxirgi ul{
+    margin-top: 45px;
+    color: #FFFFFF;
+    list-style: none;
+    margin-left: 150px;
+    line-height: 50px;
+    margin-top: 45px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 25px;
+}

@@ -1,0 +1,375 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(assets/Uy\ orqa\ fon.png);
+    height: 630px;
+    margin-left: 232px;
+    background-size: cover;
+}
+.boshi h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 95px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+.Rasm-1{
+    display: flex;
+    height: 600px;
+    background: linear-gradient(26.47deg, #023957 22.58%, #056088 94.16%);    
+}
+.boshi h2{
+    position: absolute;
+    margin-top: 80px;
+    color: #FFFFFF;
+    font-size: 45px;
+    margin-left: 130px;
+    font-family: sans-serif;
+    font-size: 45px;
+    margin-top: 150px;
+}
+.boshi p{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-left: 130px;
+    margin-top: 80px;
+    font-family: sans-serif;
+}
+.boshi button{
+    position: absolute;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    border: none;
+    padding: 25px 30px;
+    margin-left: 130px;
+    color: #FFFFFF;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.Ul_boshi{
+    display: flex;
+    gap: 30px;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+ul li{
+    color: #FFFFFF;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Rasm-4tali {
+    margin-top: 100px;
+    margin-left: 60px;
+    display: flex;
+}
+.Rasm-4tali img{
+    width: 480px;
+    height: 350px;
+}
+.Our{
+    margin-left: 70px;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+.Our h2{
+    color:  #056088;
+    line-height: 20px;
+
+}
+.Our p{
+    line-height: 25px;
+    margin-top: 20px;
+    color: #434343;
+}
+.h2lar{
+    display: flex;
+    gap: 40px;
+    line-height: 50px;
+    margin-top: 20px;
+}
+.Our button{
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    padding: 20px 30px;
+    border: none;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.Services{
+    margin-top: 80px;
+    font-family: sans-serif;
+    margin-left: 70px;
+    color: #056088;
+    text-align: center;
+}
+.Services p{
+    color: #434343;
+    text-align: center;
+    margin-top: 25px;
+}
+.Services_o{
+    display: flex;
+    margin-top: 30px;
+}
+.Benef{
+    text-align: center;
+    color: #056088;
+    margin-top: 100px;
+    font-family: sans-serif;
+    position: absolute;
+}
+.Benef_p{
+    color: #434343;
+    margin-top: 20px;
+    line-height: 20px;
+    margin-left: 200px;
+}
+.Benef_h2{
+    margin-left: 180px;
+}
+.rasm_benif img{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.rasm_3_1{
+    background-image: url(assets/Rasm-3.1.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 220px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+.rasm_3_2{
+    background-image: url(assets/Rasm-3.2.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 220px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+.rasm_3_3{
+    background-image: url(assets/Rasm-3.3.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 220px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+.rasm_benif{
+    margin-top: 30px;
+    margin-left: 200px;
+    gap: 50px;
+    display: flex;
+}
+.rasmlari_5{
+    display: flex;
+}
+.Eng_oxirgi{
+    font-family: sans-serif;
+    color: #FFFFFF;
+    margin-top: 360px;
+    background-image: url(assets/Orqa\ eng\ katta\ fon.png);
+}
+.Eng{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 580px;
+}
+.Eng1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.Eng2{
+    position: absolute;
+    margin-top: 187px;
+    margin-left: 585px;
+}
+.Eng_oxirgi button{
+    margin-top: 10px;
+    margin-left: 1200px;
+    border: none;
+    margin-bottom: 20px;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    color: #FFFFFF;
+    padding: 20px 25px;
+}
+.juftlik_1{
+    display: flex;
+    margin-top: 245px;
+}
+.juftlik_2{
+    margin-top: 245px;
+}
+.rasmlari_4{
+    margin-top: 245px;
+}
+.jami{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.rasm_2{
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.rasm_3{
+    margin-right: 10px;
+}
+.rasm_5{
+    margin-top: 16px;
+    margin-right: 8px;
+}
+.rasm_6{
+    margin-bottom: 20px;
+    height: 277px;
+    width: 170px;
+}
+.rasm_7{
+    margin-left: 10px;
+}
+.rasm_8{
+    margin-top: 15px;
+    margin-left: 18px;
+    width: 198px;
+    height: 140px;
+}
+.rasm_9{
+    height: 160px;
+    width: 380px;
+}
+.Oq{
+    width: 300px;
+    height: 300px;
+    background-color: #FFFFFF;
+    color: #056088;
+}
+.Oq h2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.Oq p{
+    color: #434343;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.Oq button{
+    border: none;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 20px 25px;
+}
+.JAMI{
+    display: flex;
+    margin-left: 50px;
+}
+.JAMI img{
+    width: 900px;
+    height: 400px;
+}
+.Odam{
+    background: linear-gradient(1.17deg, #023957 -19.65%, #056088 93.67%);
+    width: 350px;
+    height: 250px;
+    margin-left: 900px;
+}
+.Odam p{
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 40px;
+    line-height: 19px;
+}
+.Odam h4{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 40px;
+}
+footer{
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+    gap: 80px;
+}
+footer h2{
+    color: #056088;
+}
+.ekskavator{
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.Search{
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.footer_png{
+    margin-top: 100px;
+    background-color: #023957;
+    font-family: sans-serif;
+}
+.footer_png button{
+    border: none;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    color: #FFFFFF;
+    padding: 20px 25px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.footer_png h1{
+    margin-left: 70px;
+    color: #FFFFFF;
+    top: 20px;
+}
+.footer_png p{
+    margin-left: 70px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+.Eng_oxirgi1{
+    display: flex;
+    font-family: sans-serif;
+    background-color: #023957;
+}
+.Eng_oxirgi1 h1{
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.Eng_oxirgi1 p{
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.Eng_oxirgi1 button{
+    margin-left: 20px;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    border: none;
+    padding: 25px 30px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+.Eng_oxirgi1 ul{
+    margin-top: 45px;
+    color: #FFFFFF;
+    list-style: none;
+    margin-left: 150px;
+    line-height: 50px;
+    margin-top: 45px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+

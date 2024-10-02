@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    font-family: sans-serif;
+}
+.Ul_boshi{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 600px;
+    color: #FFFFFF;
+}
+.About_nav{
+    display: flex;
+}
+.About{
+    background-image: url(assets/Uy\ orqa\ fon.png);
+    background-size: cover;
+    height: 400px;
+}
+.DB{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+.About_text{
+    color: #FFFFFF;
+    margin-top: 150px;
+    text-align: center;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.cards{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 50px;
+    gap: 30px;
+}
+.card1{
+    background-image: url(assets/Story\ orqa\ fon1.png);
+    color: #FFFFFF;
+    width: 320px;
+    line-height: 20px;
+    font-family: sans-serif;
+}
+.card1 img{
+    margin: 20px;
+}
+.card1 p{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.card1 h4{
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.card{
+    color: #434343;
+    width: 320px;
+    line-height: 20px;
+    font-family: sans-serif;
+}
+.card img{
+    margin: 20px;
+}
+.card p{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.card h4{
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.tochkalar{
+    display: flex;
+    margin-left: 650px;
+    gap: 10px;
+    margin-top: 30px;
+}
+.tochka1{
+    background-color: #023957;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+}
+.tochka2{
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: #E7E7E7;
+}
+.kotta{
+    background-image: url(assets/Story\ orqa\ fon2.png);
+    display: flex;
+    gap: 130px;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+.kotta img{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px;
+}
+.kotta h2{
+    margin-top: 70px;
+    line-height: 40px;
+}
+.kotta p{
+    line-height: 20px;
+}
+.rasm_3tali{
+    display: flex;
+}
+.rasm_3tali img{
+    position: absolute;
+}
+.img1{
+    margin-left: 280px;
+    width: 260px;
+    height: 170px;
+    margin-top: 30px;
+}
+.img2{
+    width: 260px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 580px;
+}
+.img3{
+    width: 260px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 880px;
+}
+.Oxirgi_div h2{
+    margin-top: 30px;
+    margin-left: 580px;
+    font-family: sans-serif;
+    color: #056088;
+}
+.tochkalar2{
+    display: flex;
+    gap: 10px;
+    margin-left: 680px;
+    margin-top: 220px;
+}
+.Eng_oxirgi{
+    margin-top: 80px;
+    display: flex;
+    font-family: sans-serif;
+    background-color: #023957;
+    color: #FFFFFF;
+    line-height: 25px;
+}
+.Eng_oxirgi h1{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.Eng_oxirgi p{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.Eng_oxirgi button{
+    margin-left: 20px;
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+    border: none;
+    padding: 25px 30px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+.Eng_oxirgi ul{
+    margin-top: 45px;
+    color: #FFFFFF;
+    list-style: none;
+    margin-left: 150px;
+    line-height: 50px;
+    margin-top: 45px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
